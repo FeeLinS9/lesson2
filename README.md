@@ -156,6 +156,6 @@ nginx                      : ok=5    changed=2    unreachable=0    failed=0    s
 ```
 Как видим, всё прошло успешно, ok=2, changed=2. Теперь можно перейти по адресу `http://192.168.56.50:8080/`:
 
-![Скрин](https://github.com/FeeLinS9/Olesson2/blob/master/picture.png)
+![Скрин](https://github.com/FeeLinS9/lesson2/blob/master/picture.png)
 
 
